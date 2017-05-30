@@ -1,0 +1,5 @@
+github "teodorpatras/SideMenuController"
+github "Alamofire/Alamofire" ~> 4.4
+github "dzenbot/DZNEmptyDataSet"
+github "rs/SDWebImage"
+github "SVProgressHUD/SVProgressHUD"
